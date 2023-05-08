@@ -1,4 +1,4 @@
-# 🥳 ben bilgehan
+# 🥳 ben bilge7an
 dünyayı daha yaşanılabilir bir yer yapıyorum
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/1084082458124877885)[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/bilge7an) 
